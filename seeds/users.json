@@ -1,0 +1,36 @@
+{
+  "user": [
+  {
+    "name": "Andi",
+    "email": "test1@gmail.com",
+    "birthday": "1998-06-22",
+    "joined_minute_at": 6,
+    "phone": "+6281234567891",
+    "verified_status": true
+  },
+  {
+    "name": "Budi",
+    "email": "test2@gmail.com",
+    "birthday": "1998-07-17",
+    "joined_minute_at": 7,
+    "phone": "+6281234567892",
+    "verified_status": true
+  },
+  {
+    "name": "Deni",
+    "email": "test3@gmail.com",
+    "birthday": "1998-10-13",
+    "joined_minute_at": 8,
+    "phone": "+6281234567893",
+    "verified_status": true
+  },
+  {
+    "name": "Eko",
+    "email": "test4@gmail.com",
+    "birthday": "1998-07-17",
+    "joined_minute_at": 7,
+    "phone": "+6281234567894",
+    "verified_status": false
+  }
+]
+}
